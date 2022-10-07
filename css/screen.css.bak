@@ -21,7 +21,7 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: URW paladio L, Palatino, sans-serif; /* 1 */
+  font-family: sans-serif; /* 1 */
   font-size: 100%; /* 1 */
   line-height: 1.15; /* 1 */
   margin: 0; /* 2 */
@@ -173,7 +173,7 @@ textarea {
 
 ::-webkit-file-upload-button {
   -webkit-appearance: button; /* 1 */
-  font: inherit; /* 2 */
+  font: sans-serif; /* 2 */
 }
 
 /* End Form portion of Normalize CSS */
