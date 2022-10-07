@@ -20,7 +20,7 @@ time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: Palatino, URW Palladio L, serif ;
+	font: sans-serif ;
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
@@ -217,5 +217,5 @@ textarea {
 
 ::-webkit-file-upload-button {
   -webkit-appearance: button; /* 1 */
-  font: Palatino, URW Palladio L, serif ; /* 2 */
+  font: sans-serif ; /* 2 */
 }
