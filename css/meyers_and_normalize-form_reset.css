@@ -20,7 +20,7 @@ time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: URW palladio L, Palatino, sans-serif;
+	font: Palatino, URW Palladio L, serif ;
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
