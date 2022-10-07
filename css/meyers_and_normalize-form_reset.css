@@ -20,7 +20,7 @@ time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: New Century Schoolbook, TeX Gyre Schola, serif;
+	font: Century Schoolbook, TeX Gyre Schola, serif;
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
@@ -65,7 +65,7 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: medium 500 italic; /* 1 */
+  font-family: Century Schoolbook, TeX Gyre Schola, serif; /* 1 */
   font-size: 100%; /* 1 */
   line-height: 1.15; /* 1 */
   margin: 0; /* 2 */
@@ -217,5 +217,5 @@ textarea {
 
 ::-webkit-file-upload-button {
   -webkit-appearance: button; /* 1 */
-  font: New Century Schoolbook, TeX Gyre Schola, serif; /* 2 */
+  font: Century Schoolbook, TeX Gyre Schola, serif; /* 2 */
 }
